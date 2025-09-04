@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> KIM HAN TRINH – PhD Candidate </title>
-  <style>
-    body { font-family: sans-serif; margin: 0; line-height: 1.6; }
-    nav { background: #333; padding: 1em; position: sticky; top: 0; }
-    nav a { color: #fff; margin: 0 1em; text-decoration: none; }
-    nav a:hover { text-decoration: underline; }
-    section { padding: 2em; max-width: 800px; margin: auto; }
-    h2 { border-bottom: 2px solid #eee; padding-bottom: 0.3em; }
-  </style>
+  <h2> KIM HAN TRINH - PhD Candidate </h2>
 </head>
 <body>
 
@@ -26,7 +16,8 @@
 
 <section id="presentation">
   <h2>Presentation</h2>
-  <p>I am a [Your Title] at [Your Institution]. My research lies in [brief description].</p>
+  <p> Welcome to my webpage. I am currently a PhD student at IRMAR, University of Rennes, under supervision of <a href="https://www.math.univ-toulouse.fr/~ffilbet/"> Prof. Francis Filbet </a> and <a href="https://perso.univ-rennes1.fr/luis-miguel.rodrigues/recherche.html"> Prof. Luis Miguel Rodrigues </a> . My PhD topic is about the numerical simulations of Vlasov-Poisson system with strong external magnetic field, where the asymptotic regime is considered in PIC (Particle-IN-Cell) framework. </> 
+  </p>
 </section>
 
 <section id="research">
